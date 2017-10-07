@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dean Byrne	deanbyrne95@gmail.com	@deanbyrne95
 
 # THANKS
 
